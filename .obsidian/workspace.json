@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "59e565b210822dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0c1ff925a54e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c18e4410e6e29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JVM相关/《深入拆解Java虚拟机》笔记/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0b1f6c202c6997d",
+    "type": "split",
+    "children": [
+      {
+        "id": "94032e0ee9938e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de2c7e4eeeec3765",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001_小记/004_混沌学堂.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "004_混沌学堂 的大纲"
+            }
+          },
+          {
+            "id": "2d72feef5ec8d587",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d4a4fea2f318c4c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d98a3f7b642c22a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4d2923111d482534",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "b23f311811cddf58",
+    "type": "split",
+    "children": [
+      {
+        "id": "26eb41417845de67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c854c2cec9e27636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001_小记/Golang/002_类型/001_Go的类型系统.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "001_Go的类型系统 的反向链接列表"
+            }
+          },
+          {
+            "id": "63d4cd19865e398f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001_小记/Java/002_小记02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "002_小记02 的出链列表"
+            }
+          },
+          {
+            "id": "72fba03740ad28ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d4a4fea2f318c4c2",
+  "lastOpenFiles": [
+    "README.md",
+    "JVM相关/《深入拆解Java虚拟机》笔记/index.md",
+    "002_小思/images/Pasted image 20250203190200.png",
+    "002_小思/images",
+    "004_计划清单/001_25年2月份.md",
+    "001_小记/002_TypeScript 基础.md",
+    "002_小思/001_TypeScript入门.md",
+    "002_小思/TypeScript入门.md",
+    "002_小思/Untitled.md",
+    "004_计划清单/index.md",
+    "001_小记/003_Java编程之美 笔记.md",
+    "004_计划清单",
+    "001_小记/001_代码生成器共享平台.md",
+    "001_小记/004_混沌学堂.md",
+    "001_小记/005_Java面试题（自述版）.md",
+    "001_小记/images/Pasted image 20250201201325.png",
+    "001_小记/index.md",
+    "001_小记/images/Pasted image 20250131134623.png",
+    "001_小记/images/Pasted image 20250131133939.png",
+    "003_其他/index.md",
+    "003_其他/001_一些学习资源.md",
+    "001_小记/005_ceshi.md",
+    "002_小思/index.md",
+    "001_小记/Java编程之美 笔记.md",
+    "001_小记/Java编程之美.md",
+    "001_小记/TypeScript 基础.md",
+    "001_小记/images/image.png",
+    "001_小记/images/Pasted image 20250127145741.png",
+    "001_小记/images/Pasted image 20250127145814.png",
+    "001_小记/代码生成器共享平台.md",
+    "001_小记/images",
+    "002_小思/002_小思02.md",
+    "002_小思/001_小思01.md",
+    "001_小记/Golang/001_小记01.md",
+    "001_小记/Golang/002_类型/001_Go的类型系统.md",
+    "001_小记/Java/002_小记02.md",
+    "003_其他",
+    "002_小思",
+    "001_小记/Golang/002_类型",
+    "001_小记/Java",
+    "001_小记/Golang",
+    "001_小记",
+    "07_反思与总结",
+    "05_小记/images/代码生成器共享平台.png",
+    "03_随便聊聊/images/image-20241009091344636.png",
+    "03_随便聊聊/images/image-20241009093012103.png"
+  ]
+}

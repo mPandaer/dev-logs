@@ -1,0 +1,10 @@
+{
+  "cssTheme": "GitHub Theme",
+  "enabledCssSnippets": [
+    "head-style"
+  ],
+  "textFontFamily": "Microsoft YaHei",
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "monospaceFontFamily": "JetBrains Mono,思源黑体",
+  "theme": "moonstone"
+}

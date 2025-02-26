@@ -1,0 +1,43 @@
+.markdown-source-view.mod-cm6 .cm-content > div.cm-line {
+    line-height: 28px;
+    padding: 2px 0;
+}
+.markdown-source-view.mod-cm6 .cm-content > div.internal-embed.media-embed.image-embed {
+    padding: 8px 0 !important;
+}
+.markdown-source-view.mod-cm6 .cm-content > div.internal-embed.media-embed.image-embed > img {
+    display: inline-block;
+    border-radius: 4px;
+}
+.markdown-source-view.mod-cm6 .cm-content > .cm-line.HyperMD-header-1 {
+    padding: 24px 0 !important;
+    font-size: 2em; /* 一级标题 */
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-line.HyperMD-header-2 {
+    padding: 20px 0 !important;
+    font-size: 1.75em; /* 二级标题 */
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-line.HyperMD-header-3 {
+    padding: 16px 0 !important;
+    font-size: 1.5em; /* 三级标题 */
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-line.HyperMD-header-4 {
+    padding: 12px 0 !important;
+    font-size: 1.25em; /* 四级标题 */
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-line.HyperMD-header-5 {
+    padding: 8px 0 !important;
+    font-size: 1em; /* 五级标题 */
+}
+
+/* .HyperMD-codeblock.HyperMD-codeblock-begin.HyperMD-codeblock-begin-bg.HyperMD-codeblock-bg.cm-line {
+    padding: 2px 8px !important;
+}
+
+.HyperMD-codeblock.HyperMD-codeblock-bg.cm-line {
+    padding: 2px 8px !important;
+} */
